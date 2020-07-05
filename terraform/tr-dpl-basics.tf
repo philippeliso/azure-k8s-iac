@@ -16,3 +16,4 @@ resource "azurerm_resource_group" "az-eus-rsg-kub" {
     environment = "Development"
   }
 }
+}
